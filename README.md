@@ -2,7 +2,7 @@
 
 Readify is a **feature-rich, cross-platform e-book reader application** built with Python and Tkinter, designed to support both PDF and text files. It offers an **intuitive interface** with advanced **reading and annotation capabilities** to enhance your reading experience. 🌟
 
-![Readify Logo](https://ibb.co/nMVKhmD)
+![Readify Logo](./readify.png)
 
 ## Features ✨
 
